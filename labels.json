@@ -1,0 +1,30 @@
+{
+  "bug": {
+    "description": "Something isn't working",
+    "color": "#d73a4a"
+  },
+  "config": {
+    "description": "Issue related to configuration",
+    "color": "#c16e07"
+  },
+  "documentation": {
+    "description": "Improvements or additions to documentation",
+    "color": "#0075ca"
+  },
+  "duplicate": {
+    "description": "This issue or pull-request already exists",
+    "color": "#cfd3d7"
+  },
+  "epic": {
+    "description": "Larger concept; collection of features and stories",
+    "color": "#0112c4"
+  },
+  "feature": {
+    "description": "Feature to be added",
+    "color": "#0112c4"
+  },
+  "fix": {
+    "description": "Fix for a feature",
+    "color": "#a2eeef"
+  }
+}
